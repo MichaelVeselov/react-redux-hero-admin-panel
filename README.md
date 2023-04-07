@@ -2,6 +2,6 @@
 
 ## Simple React App - using React, Redux, Redux-Thunk, JSON-Server
 
-### To run the app: npm install and the npm run dev
+### To run the app: npm install and then npm run dev
 
 ![Hero Admin Panel](screenshot/hero-admin-panel.png 'Hero Admin Panel')
