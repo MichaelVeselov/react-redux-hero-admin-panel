@@ -1,7 +1,7 @@
-# Project
+# Hero Admin Panel
 
-## Portfolio / Simple React App - [Demo](https://)
+## Simple React App - using React, Redux, Redux-Thunk, JSON-Server
 
-### App Project, using React + Vite
+### To run the app: npm install and the npm run dev
 
-![Project](screenshot/*.* 'Project')
+![Hero Admin Panel](screenshot/hero-admin-panel.png 'Hero Admin Panel')
