@@ -10,6 +10,8 @@ import { fetchHeroes, heroDeleted } from '../../actions';
 import HeroesListItem from '../heroesListItem/HeroesListItem';
 import Spinner from '../spinner/Spinner';
 
+import './heroesList.scss';
+
 const HeroesList = () => {
   const filteredHeroesSelector = createSelector(
     (state) => state.heroes.heroes,
